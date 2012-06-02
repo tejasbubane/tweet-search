@@ -1,0 +1,10 @@
+This is a real quick code that I wrote to just get acquainted with the twitter search API.
+Documentation for the same can be found at: https://dev.twitter.com/docs/api/1/get/search
+
+I came to know of the API when I was doing the Udacity-CS253 course on Building Web Applications
+and just played on it a bit and happened to write this code.
+
+Usage:
+1. run the twitter.py
+2. Enter the twitter username whose tweets you want to see
+3. See the tweets below!!
